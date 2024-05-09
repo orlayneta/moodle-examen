@@ -28,6 +28,6 @@ Password: p4ssw0rd
 
 # GUIA BASICA PARA UTILIZAR MOODLE
 
-https://raw.githubusercontent.com/Orlayneta/moodle-examen/imagenes/1 home.png
+https://raw.githubusercontent.com/Orlayneta/moodle-examen/imagenes/home.png
 
 
