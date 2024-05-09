@@ -30,4 +30,6 @@ Password: p4ssw0rd
 
 https://raw.githubusercontent.com/orlayneta/moodle-examen/imagenes/1_home.png
 
+![WordPress-Screen01](imagenes/1_home.png)
+
 
