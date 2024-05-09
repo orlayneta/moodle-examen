@@ -28,8 +28,41 @@ Password: p4ssw0rd
 
 # GUIA BASICA PARA UTILIZAR MOODLE
 
-https://raw.githubusercontent.com/orlayneta/moodle-examen/imagenes/1_home.png
+Al acceder al sitio de encontrara algo similar a esta pagina
 
-![WordPress-Screen01](imagenes/1_home.png)
+![home](imagenes/1_home.png)
+
+Accediendo como administradores añadimos usuarios para diferentes tipos de roles
+
+![home](imagenes/3.png)
+
+ejemplo:
+
+![home](imagenes/4_usuario.png)
+
+se pueden añadir los usuarios necesarios:
+
+![home](imagenes/5_usuarios.png)
+
+creamos un curso 
+
+![home](imagenes/curso.png)
+
+añadimos usuarios al curso que previamente fueron registrados por el administrador
+
+![home](imagenes/6_añadir_usuarios.png)
+
+asignamos los roles correspondientes a cada usuario
+
+![home](imagenes/7_rol.png)
+
+se visualiza la lista de usuarios con sus respectivos roles 
+
+![home](imagenes/all_users.png)
+
+al acceder al curso de visualiza la informacion
+
+![home](imagenes/FINAL.png)
+
 
 
