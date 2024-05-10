@@ -30,7 +30,7 @@ Password: p4ssw0rd
 
 Al acceder al sitio de encontrara algo similar a esta pagina
 
-![home](imagenes/1_home.png)
+![home](imagenes/añadir.png)
 
 Accediendo como administradores añadimos usuarios para diferentes tipos de roles
 
